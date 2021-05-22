@@ -1,4 +1,4 @@
-package br.com.dio.coinconverter.presentation
+package br.com.dio.coinconverter.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
