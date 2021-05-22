@@ -1,4 +1,5 @@
 package br.com.dio.coinconverter
 
-class App {
-}
+import android.app.Application
+
+class App : Application()
